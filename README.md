@@ -1,1 +1,1 @@
-# example-repo
+# study-repo

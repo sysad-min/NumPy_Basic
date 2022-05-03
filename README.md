@@ -1,1 +1,1 @@
-# Numpy 기초 공부
+# Numpy Basic
